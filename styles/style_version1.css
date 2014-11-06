@@ -1,0 +1,76 @@
+body { margin-left: 0;
+       margin-right: 0;
+       padding: 0;}
+
+.sidebar1 { float: left;
+	        background-color: #8C2E2E;
+            height: 750px;
+            padding-right: 5em;}
+
+li { list-style: none;}
+
+
+ .sidebar1 li { padding: 10px;
+	            font-size: 1.5em;
+	            font-family: Arial, sans-serif;}
+
+.sidebar1 ul { padding-left: 70px;}
+
+	 a { text-decoration: none;
+		 color: white;}
+
+
+.sidebar-link {position: absolute;
+               font-size: 20px;}
+
+.sidebar-link:link { color: #F5F5F5;}
+
+.sidebar-link:hover { color: #CD853F;}
+
+
+#cooking { font-family: "Lucida Grande", Arial, Verdana, sans-serif;
+     color: #A52A2A;
+     font-size: 3em;}
+
+p { text-align: center;
+    margin-right: 10em;
+    margin-left: 25em;
+    font-family: sans-serif, "Arial";
+    margin-top: 3em;
+    font-size: 20px;}
+
+.navigation  li{ display: inline-block;
+                 margin-right: 3.5em;
+                 padding-right: 3.5em;
+                 font-size: 1.4em;
+                 padding-top: 10px;
+                 padding-bottom: 10px;
+                 border-right: 9px solid #778899;}
+
+.navigation li:last-child {border-right: none;
+                           margin-right: 0px;}
+
+.navigation  { background-color: #5A6673; 
+               padding-left: 20px;}
+
+.navigation ul { margin-bottom: 0px;} 
+
+
+#cupcake {  text-align: center;
+            padding-top: 2em;
+            font-size: 35px;
+            font-family:monospace;
+            color: #A52A2A;
+            margin-top: 19px;}
+
+footer img {margin-left: 3em;}
+
+footer { margin: 5em 0em 4em 0em;
+         position: absolute;
+         left: 50%;
+         margin-right: -50%;
+         transform: translate(-50%, -50%);}
+
+article { background-color: #F4A460; 
+          height:750px;
+          margin-top: -1.2em;}

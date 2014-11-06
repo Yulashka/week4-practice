@@ -1,0 +1,62 @@
+body { margin-left: 0;
+       margin-right: 0;
+       padding: 0;}
+
+.sidebar1 { float: left;
+	        background-color: #B39BE6;
+            height: 750px;
+            padding-right: 5em;}
+
+li { list-style: none;}
+
+
+ .sidebar1 li { margin: 2em;
+	            font-size: 1.5em;
+	            font-family: Arial, sans-serif;}
+
+.sidebar1 ul { padding-left: 50px;}
+
+	 a { text-decoration: none;
+		 color: white;}
+
+h1 { text-align: center;
+     font-family: sans-serif;
+     color: #AD5BD6;
+     font-size: 3em;}
+
+p { text-align: center;
+    margin-right: 10em;
+    margin-left: 25em;
+    margin-top: 4.2em;
+    font-family: sans-serif, "Arial";}
+
+.navigation  li{ display: inline-block;
+                 margin-right: 2.9em;
+                 padding-right: 2.9em;
+                 font-size: 1.4em;
+                 padding-top: 10px;
+                 padding-bottom: 10px;
+                 border-right: 4px solid #1F1F7A;}
+
+.navigation li:last-child {border-right: none;
+                           margin-right: 0px;}
+
+.navigation  { background-color: #AD5BD6; 
+               padding-left: 20px;}
+
+.navigation ul { margin-bottom: 0px;} 
+
+
+#veggies { margin-left: 14em;
+           margin-top: 9em;}
+
+footer img {margin-left: 3em;}
+
+footer { margin: 5em 0em 4em 0em;
+         position: absolute;
+         left: 50%;
+         margin-right: -50%;
+         transform: translate(-50%, -50%);}
+
+div { background-color: #D3D3D3; 
+      height:750px;}
